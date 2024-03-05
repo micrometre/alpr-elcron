@@ -1,11 +1,11 @@
 {
-  "name": "earsplitting-procedure-rate-s2w4z",
-  "productName": "earsplitting-procedure-rate-s2w4z",
-  "description": "My Electron application description",
+  "name": "alpr-manage",
+  "productName": "alpr-manage",
+  "description": "ALPR Electron application",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
-  "author": "dell",
+  "author": "Henok",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
